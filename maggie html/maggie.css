@@ -1,0 +1,39 @@
+body{
+	background-color:red;
+}
+#man{
+	color:gold;
+	text-shadow:2px 1px;
+	font-size:100px;
+	background-color:green;
+}
+div.who{
+	font-size:50px;
+	font-family:algebra;
+	text-decoration:underline;
+	background-color:pink;
+	
+}
+#can{
+	color:grey;
+	font-weight:strong;
+	font-size:70px;
+	background-color:purple;
+	text-align:center;
+}
+section.yes{
+	background-color:blue;
+	font-size:50px;
+	
+}
+
+
+
+
+
+	
+	
+	
+	
+	
+	
